@@ -1,0 +1,2 @@
+tesr readmem
+now
